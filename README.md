@@ -1,5 +1,7 @@
 # Portkit-Issues
 
+You may find beta releases of PortKit in here, I appreciate any support. Though while im writing this theres no beta releases...
+
 Portkit translates mods into a custom language I made for cross version/platform compatibility, but writing support for these versions takes time and its not a process I can really automate right now.
 The API changes between forge 1.20.1 and neoforge 1.21.1 also isnt a fully documented thing, so I have to write it out/figure out as the mod is made.
 
