@@ -2,13 +2,9 @@
 
 You may find beta releases of PortKit in here, I appreciate any support. 
 
-I'm sorry I havent released a new version of portkit in over a week. In reality, I was going to release 0.9, but the quality of it was not what I wanted, so im holding back until 1.0 releases. As of writing this, there is about a 200% improvement in port success with 1.0, but it will go higher once I finish the full implementation.
+If youre looking here for 0.9, its not here. It wont be in the repo until 1.0 releases cuz it might break curseforges rules. 0.9 Has been in moderation for about a week and a half now and it is really pissing me the hell off. I appreciate yall who have been patiently waiting but moderation is taking a while cuz of the ai slop in curseforge
 
-I have successfully automated most of the portkit process using some programs I wrote, but this latest implementation requires some hard work before the results come out.
-
-Also, happy spooky month~ Porty dressed up as a vampire this year!
-
-<img width="960" height="1360" alt="porty_vampire" src="https://github.com/user-attachments/assets/679e7df1-5718-4243-9ca7-759929283fc5" />
+Happy early thanksgiving, gobble gobble and gta 6 in a few weeks
 
 
 
