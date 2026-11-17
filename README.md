@@ -10,3 +10,8 @@ I dont get any reward points from github downloads so I would appreciate if yall
 
 # Issues (Mod problems and crashes)
 Create a post in the issues tab of this repo, and i will read it and try to fix it in the next release if possible, though for bigger problems/requests it will take more time.
+
+# Contributions
+No direct mod contributions yet, as portkit will keep its latest version closed source for the foreseeable future
+But what you can do is contribute language translations for the repo, and a also instructions and dialogue for future portkit versions.
+Simply create a pull request with your translation, ill review it and input it
